@@ -1,0 +1,5 @@
+
+
+#xmp
+  flashManufacturer=""
+  flashModel=""
