@@ -1,12 +1,12 @@
  set -x
  # imports
  source camera/mamiya-zm.sh
- source lens/mamiya-sekor_28mm_f3.5.sh
- source film/kodak-ektar_100.sh
+ source lens/AUTO_REVUENON_MCF_50mm_F1.4.sh
+ source film/fujicolor_c200.sh
  source flash/default.sh
  source scanner/minolta_scan_dual_iv.sh
- source picture/picture.sh
-  fileName="test.jpg"
+ source picture/default.sh
+  fileName=$1
 
   exiftool -overwrite_original -EXIF:Make="${cameraMaker}" $fileName
   exiftool -overwrite_original -EXIF:Model="${cameraModel}" $fileName
