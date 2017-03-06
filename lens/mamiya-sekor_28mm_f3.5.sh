@@ -4,7 +4,7 @@
   focalLengthIn35mmFormat="28 mm"
   lens="EF 1:2.8 f=35mm"
   lensModel="${lens}"
-  lensSerial=""
+  lensSerial="20725"
   #xmp
 
   lens="EF 1:2.8 f=35mm"
