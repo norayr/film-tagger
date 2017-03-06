@@ -2,6 +2,6 @@ lst=`ls *.jpg`
 
 for i in $lst
 do
-  main.sh $i
+  sh main.sh $i
 done
 
