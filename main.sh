@@ -6,6 +6,8 @@
  source flash/default.sh
  source scanner/minolta_scan_dual_iv.sh
  source picture/default.sh
+ source location/default.sh
+
   fileName=$1
 
   exiftool -overwrite_original -EXIF:Make="${cameraMaker}" $fileName
@@ -51,6 +53,7 @@
   exiftool -overwrite_original -XMP:ScannerMaker="${scannerMaker}" $fileName
   exiftool -overwrite_original -XMP:LensSerial="${lensSerial}" $fileName
 
-
+  #location
+  exiftool -P -GPSLatitude=${latitude} -GPSLongitude=${longitude} -GPSImgDirection=${direction} $filename
 
   #exiftool -overwrite_original -xmpRights:UsageTerms="This work is licensed to the public under the Creative Commons Attribution-ShareAlike license http://creativecommons.org/licenses/by­sa/2.0/"
