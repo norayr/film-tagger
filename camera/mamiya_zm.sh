@@ -4,5 +4,5 @@ cameraMaker="Mamiya Camera Co., Ltd."
 cameraModel="Mamiya ZM"
 
 #xmp
-  cameraSerialNumber=""
+  cameraSerialNumber="V119166"
 
