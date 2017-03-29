@@ -1,12 +1,15 @@
  set -x
  # imports
- source camera/mamiya-zm.sh
- source lens/AUTO_REVUENON_MCF_50mm_F1.4.sh
- source film/fujicolor_c200.sh
+ source camera/mamiya_zm.sh
+ #source lens/AUTO_REVUENON_MCF_50mm_F1.4.sh
+ source lens/mamiya-sekor_28mm_f3.5.sh
+ #source film/fujicolor_c200.sh
+ source film/FUJICHROME_Velvia_50.sh
  source flash/default.sh
  source scanner/minolta_scan_dual_iv.sh
  source picture/default.sh
- source location/default.sh
+ #source location/default.sh
+ source location/frozen_sevan_velvia.sh
 
   fileName=$1
 
