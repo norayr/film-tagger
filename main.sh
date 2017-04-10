@@ -4,14 +4,15 @@
  #source camera/mamiya_ze-2.sh
  #source lens/AUTO_REVUENON_MCF_50mm_F1.4.sh
  source lens/mamiya-sekor_28mm_f3.5.sh
- #source film/fujicolor_c200.sh
- source film/FUJICHROME_Velvia_50.sh
+ source film/fujicolor_c200.sh
+ #source film/FUJICHROME_Velvia_50.sh
  source flash/default.sh
  source scanner/minolta_scan_dual_iv.sh
  source picture/default.sh
- #source location/default.sh
- source location/frozen_sevan_velvia.sh
- source location/malocco_cascade.sh
+ source location/default.sh
+ #source location/frozen_sevan_velvia.sh
+ #source location/malocco_cascade.sh
+ #source location/ritsa_street_cat.sh
 
   fileName=$1
 
@@ -59,6 +60,6 @@
   exiftool -overwrite_original -XMP:LensSerial="${lensSerial}" $fileName
 
   #location
-  exiftool -P -GPSLatitude=${latitude} -GPSLongitude=${longitude} -GPSImgDirection=${direction} $fileName
+  exiftool -overwrite_original -P -GPSLatitude=${latitude} -GPSLongitude=${longitude} -GPSImgDirection=${direction} $fileName
 
   #exiftool -overwrite_original -xmpRights:UsageTerms="This work is licensed to the public under the Creative Commons Attribution-ShareAlike license http://creativecommons.org/licenses/by­sa/2.0/"
