@@ -1,4 +1,4 @@
 
-latitude="40.1801377" 
-longitude="44.5115751"
-direction="230.3"
+latitude="40.18552" 
+longitude="44.52021"
+direction=""
