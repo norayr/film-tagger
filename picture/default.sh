@@ -5,6 +5,7 @@
  exposureTime="1/125"
  fNumber="3.5"
  exposureProgram="Manual"
- software="GIMP"
+ #software="GIMP"
+ software=""
  orientation="Horisontal (normal)"
  userComment=""
