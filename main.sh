@@ -1,10 +1,13 @@
  set -x
  # imports
- source camera/mamiya_zm.sh
+ #source camera/mamiya_zm.sh
+ source camera/porst.sh
  #source camera/mamiya_ze-2.sh
  #source lens/AUTO_REVUENON_MCF_50mm_F1.4.sh
- source lens/mamiya-sekor_28mm_f3.5.sh
- source film/fujicolor_c200.sh
+ #source lens/mamiya-sekor_28mm_f3.5.sh
+ source lens/fuji_EBC_fujinon_SW_28mm_f3.5.sh
+ #source film/fujicolor_c200.sh
+ source film/fomapan_400.sh
  #source film/FUJICHROME_Velvia_50.sh
  source flash/default.sh
  source scanner/minolta_scan_dual_iv.sh
