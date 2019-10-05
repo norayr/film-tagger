@@ -1,6 +1,7 @@
 
  #exif
- artist="Norayr Chilingarian"
+ #artist="Norayr Chilingarian"
+ artist=""
  copyright="Creative Commons Attribution 3.0"
  exposureTime="1/125"
  fNumber="3.5"
