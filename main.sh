@@ -4,7 +4,7 @@
  #source camera/porst.sh
  #source camera/mamiya_1000dtl.sh
  #source camera/lomo_instant_magellan.sh
- source camera/lomo_instant_wide.sh
+ #source camera/lomo_instant_wide.sh
  #source camera/mamiya_ze-2.sh
  #source lens/AUTO_REVUENON_MCF_50mm_F1.4.sh
  #source lens/mamiya-sekor_28mm_f3.5.sh
