@@ -20,7 +20,8 @@
  source film/Lomography_Berlin_400.sh
  source flash/default.sh
  #source scanner/minolta_scan_dual_iv.sh
- source scanner/canon_9000.sh
+ #source scanner/canon_9000.sh
+ source scanner/pie_xa.sh
  source picture/default.sh
  source location/default.sh
  #source location/frozen_sevan_velvia.sh
