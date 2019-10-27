@@ -1,6 +1,6 @@
  set -x
  # imports
- #source camera/mamiya_zm.sh
+ source camera/mamiya_zm.sh
  #source camera/porst.sh
  #source camera/mamiya_1000dtl.sh
  #source camera/lomo_instant_magellan.sh
@@ -10,14 +10,17 @@
  #source camera/mamiya_rb67.sh
  source camera/polaroid_sx-70.sh
  #source lens/AUTO_REVUENON_MCF_50mm_F1.4.sh
- #source lens/mamiya-sekor_28mm_f3.5.sh
+ source lens/mamiya-sekor_28mm_f3.5.sh
  #source lens/fuji_EBC_fujinon_SW_28mm_f3.5.sh
  #source lens/Carl_Zeiss_Jena_Flektogon_20mm_f2.8.sh
  #source lens/lomo_instant_magellan.sh
  #source lens/lomo_instant_wide.sh
+<<<<<<< HEAD
  #source lens/mamiya_rb67_50mm.sh
  source lens/polaroid_sx-70.sh
  #source lens/nikon_l35_ad.sh
+=======
+>>>>>>> 57dd2ad5f1b73418600bc23422ebf7e725d436a9
  #source film/fujicolor_c200.sh
  #source film/fujicolor_pro400h.sh
  #source film/fujifilm_superia800.sh
@@ -25,12 +28,17 @@
  #source film/instax_wide.sh
  #source film/fomapan_400.sh
  #source film/FUJICHROME_Velvia_50.sh
+<<<<<<< HEAD
  #source film/FUJIFILM_FP100C.sh
  source film/polaroid_originals.sh
  #source film/fujicolor_400industrial.sh
+=======
+ source film/Lomography_Berlin_400.sh
+>>>>>>> 57dd2ad5f1b73418600bc23422ebf7e725d436a9
  source flash/default.sh
  #source scanner/minolta_scan_dual_iv.sh
- source scanner/canon_9000.sh
+ #source scanner/canon_9000.sh
+ source scanner/pie_xa.sh
  source picture/default.sh
  #source location/default.sh
  #source location/frozen_sevan_velvia.sh
