@@ -1,0 +1,2 @@
+  #xmp
+  scannerMaker="Canon"
