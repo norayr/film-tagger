@@ -12,6 +12,7 @@
  #source camera/polaroid_sx-70.sh
  #source lens/AUTO_REVUENON_MCF_50mm_F1.4.sh
  #source lens/mamiya-sekor_28mm_f3.5.sh
+ source lens/osawa_28mm_f2.8.sh
  #source lens/d.zuiko_35mm_f3.5.sh
  #source lens/fuji_EBC_fujinon_SW_28mm_f3.5.sh
  #source lens/Carl_Zeiss_Jena_Flektogon_20mm_f2.8.sh
@@ -21,7 +22,8 @@
  #source lens/polaroid_sx-70.sh
  #source lens/nikon_l35_ad.sh
  #source film/fujicolor_c200.sh
- source film/fujicolor_pro400h.sh
+ #source film/fujicolor_pro400h.sh
+ source film/kodak_portra_800.sh
  #source film/fujifilm_superia800.sh
  #source film/instax_mini.sh
  #source film/instax_wide.sh
