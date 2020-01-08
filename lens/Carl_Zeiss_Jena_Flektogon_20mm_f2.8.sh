@@ -8,5 +8,5 @@
   #xmp
 
   lens="Carl Zeiss Jena MC Flektogon 20mm f 2,8"
-  lensManufacturer="Carl Zeiss Jena MC Flektogon 20mm f 2,8"
+  lensManufacturer="Carl Zeiss Jena"
   lensModel="${lens}"
