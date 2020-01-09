@@ -8,16 +8,17 @@
  #source camera/mamiya_1000dtl.sh
  #source camera/lomo_instant_magellan.sh
  #source camera/lomo_instant_wide.sh
- #source camera/mamiya_ze-2.sh
+ source camera/mamiya_ze-2.sh
  #source camera/nikon_l35_ad.sh
- source camera/nikon_n2000.sh
+ #source camera/nikon_n2000.sh
  #source camera/nikon_n2000_.sh
  #source camera/mamiya_rb67.sh
  #source camera/polaroid_sx-70.sh
  #source lens/AUTO_REVUENON_MCF_50mm_F1.4.sh
- #source lens/mamiya-sekor_28mm_f3.5.sh
+ source lens/mamiya-sekor_28mm_f3.5.sh
  #source lens/osawa_28mm_f2.8.sh
- source lens/osawa_for_nikon_28mm_f2.8.sh
+ #source lens/osawa_for_nikon_28mm_f2.8.sh
+ #source lens/osawa_for_nikon_28mm_f2.8_.sh
  #source lens/nikon_50mm_f1.8.sh
  #source lens/spiratone_20mm_f2.8.sh
  #source lens/d.zuiko_35mm_f3.5.sh
@@ -30,7 +31,9 @@
  #source lens/nikon_l35_ad.sh
  #source film/fujicolor_c200.sh
  #source film/fujicolor_pro400h.sh
- source film/kodak_portra_800.sh
+ #source film/kodak_portra_800.sh
+ source film/kodak_ektar_125.sh
+ #source film/kodak_ektar_25.sh
  #source film/fujifilm_superia800.sh
  #source film/instax_mini.sh
  #source film/instax_wide.sh
