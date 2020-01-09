@@ -74,8 +74,7 @@
   exiftool -overwrite_original -Composite:Aperture="${fNumber}" $fileName
 #  exiftool -overwrite_original -EXIF:ExposureProgram="${exposureProgram}" $fileName
 #  exiftool -overwrite_original -EXIF:ExposureMode="${exposureProgram}" $fileName
-  #exiftool -overwrite_original -EXIF:ISO="${iso}" $fileName
-  exiftool -overwrite_original -EXIF:ISO="800" $fileName
+  exiftool -overwrite_original -EXIF:ISO="${iso}" $fileName
   exiftool -overwrite_original -EXIF:FocalLengthIn35mmFormat="${focalLengthIn35mmFormat}" $fileName
   exiftool -overwrite_original -Composite:FocalLength35efl="${focalLengthIn35mmFormat}" $fileName
   exiftool -overwrite_original -EXIF:MaxApertureValue="${maxApertureValue}" $fileName
@@ -88,8 +87,8 @@
   exiftool -overwrite_original -XMP:LensManufacturer="${lensManufacturer}" $fileName
   exiftool -overwrite_original -EXIF:LensModel="${lensModel}" $fileName
   exiftool -overwrite_original -XMP:LensModel="${lensModel}" $fileName
-#  exiftool -overwrite_original -EXIF:LensSerialNumber="${lensSerial}" $fileName
-#  exiftool -overwrite_original -XMP:LensSerial="${lensSerial}" $fileName
+  exiftool -overwrite_original -EXIF:LensSerialNumber="${lensSerial}" $fileName
+  exiftool -overwrite_original -XMP:LensSerial="${lensSerial}" $fileName
  
 #  exiftool -overwrite_original -XMP:FlashManufacturer="${flashManufacturer}" $fileName
 #  exiftool -overwrite_original -XMP:FlashModel="${flashModel}" $fileName
@@ -100,7 +99,6 @@
   exiftool -overwrite_original -XMP:DevelopProcess="${developProcess}" $fileName
 #  exiftool -overwrite_original -XMP:RollId="${rollId}" $fileName
   exiftool -overwrite_original -XMP:ScannerMaker="${scannerMaker}" $fileName
-#  exiftool -overwrite_original -XMP:LensSerial="${lensSerial}" $fileName
 
   #location
 #  exiftool -overwrite_original -P -GPSLatitude=${latitude} -GPSLongitude=${longitude} -GPSImgDirection=${direction} $fileName
