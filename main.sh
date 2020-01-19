@@ -2,8 +2,8 @@
  # imports
  #source camera/mamiya_zm.sh
  #sonas zm:
- source camera/mamiya_zm_.sh
- #source camera/olympus_xa2.sh
+ #source camera/mamiya_zm_.sh
+ source camera/olympus_xa2.sh
  #source camera/porst.sh
  #source camera/mamiya_1000dtl.sh
  #source camera/lomo_instant_magellan.sh
@@ -16,13 +16,13 @@
  #source camera/polaroid_sx-70.sh
  #source lens/AUTO_REVUENON_MCF_50mm_F1.4.sh
  #source lens/AUTO_REVUENON_MCE_28mm_f2.8.sh
- source lens/mamiya-sekor_28mm_f3.5.sh
+ #source lens/mamiya-sekor_28mm_f3.5.sh
  #source lens/osawa_28mm_f2.8.sh
  #source lens/osawa_for_nikon_28mm_f2.8.sh
  #source lens/osawa_for_nikon_28mm_f2.8_.sh
  #source lens/nikon_50mm_f1.8.sh
  #source lens/spiratone_20mm_f2.8.sh
- #source lens/d.zuiko_35mm_f3.5.sh
+ source lens/d.zuiko_35mm_f3.5.sh
  #source lens/fuji_EBC_fujinon_SW_28mm_f3.5.sh
  #source lens/Carl_Zeiss_Jena_Flektogon_20mm_f2.8.sh
  #source lens/lomo_instant_magellan.sh
@@ -31,7 +31,7 @@
  #source lens/polaroid_sx-70.sh
  #source lens/nikon_l35_ad.sh
  #source film/fujicolor_c200.sh
- source film/fujicolor_pro400h.sh
+ #source film/fujicolor_pro400h.sh
  #source film/kodak_portra_800.sh
  #source film/kodak_ektar_125.sh
  #source film/kodak_ektar_25.sh
@@ -45,6 +45,7 @@
  #source film/fujicolor_400industrial.sh
  #source film/Lomography_Berlin_400.sh
  #source film/kodak_trix.sh
+ source film/kodak_5222.sh
  #source film/kodak_3200.sh
  #source film/adox_chm400.sh
  source flash/default.sh
