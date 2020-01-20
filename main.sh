@@ -45,8 +45,10 @@
  #source film/fujicolor_400industrial.sh
  #source film/Lomography_Berlin_400.sh
  #source film/kodak_trix.sh
- source film/kodak_5222.sh
+ #source film/kodak_5222.sh
  #source film/kodak_3200.sh
+ #source film/ilford_hp5.sh
+ source film/ilford_delta_400.sh
  #source film/adox_chm400.sh
  source flash/default.sh
  #source scanner/minolta_scan_dual_iv.sh
