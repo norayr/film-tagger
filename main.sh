@@ -42,7 +42,8 @@
  #source film/fomapan_400.sh
  #source film/FUJICHROME_Velvia_50.sh
  #source film/FUJIFILM_FP100C.sh
- source film/polaroid_originals.sh
+ #source film/polaroid_originals.sh
+ source film/polaroid_originals_monochrome.sh
  #source film/fujicolor_400industrial.sh
  #source film/Lomography_Berlin_400.sh
  #source film/kodak_trix.sh
