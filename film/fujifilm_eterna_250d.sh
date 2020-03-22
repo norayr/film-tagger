@@ -1,9 +1,9 @@
 
   #exif
-  iso="200"
+  iso="250"
   filmType="135"
   filmMaker="Fuji"
-  film="Fujicolor C200"
-  filmAlias="Fujicolor C200"
+  film="Eterna 250D"
+  filmAlias="Eterna 250D"
   developProcess="C41"
   rollId=""
