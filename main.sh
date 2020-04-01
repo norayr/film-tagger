@@ -3,7 +3,7 @@
  #source camera/mamiya_zm.sh
  #sonas zm:
  #source camera/mamiya_zm_.sh
- source camera/minolta_xg-m.sh
+ #source camera/minolta_xg-m.sh
  #source camera/olympus_xa2.sh
  #source camera/porst.sh
  #source camera/mamiya_1000dtl.sh
@@ -13,7 +13,7 @@
  #source camera/mamiya_ze-2.sh
  #source camera/nikon_l35_ad.sh
  #source camera/nikon_n2000.sh
- #source camera/nikon_n2000_.sh
+ source camera/nikon_n2000_.sh
  #source camera/mamiya_rb67.sh
  #source camera/polaroid_sx-70.sh
  #source lens/AUTO_REVUENON_MCF_50mm_F1.4.sh
@@ -42,8 +42,8 @@
  #source film/kodak_ektar_100.sh
  #source film/kodak_ektar_125.sh
  #source film/kodak_ektar_25.sh
- #source kodak_vision2_50d.sh
- source kodak_vision3_500t.sh
+ #source film/kodak_vision2_50d.sh
+ source film/kodak_vision3_500t.sh
  #source film/agfa_agfacolor_100.sh
  #source film/fujicolor_c200.sh
  #source film/fujifilm_eterna_250d.sh
