@@ -36,12 +36,14 @@
  #film
  #source film/kodak_trix.sh
  #source film/kodak_5222.sh
- source film/kodak_3200.sh
+ #source film/kodak_3200.sh
  #source film/kodak_portra_400.sh
  #source film/kodak_portra_800.sh
  #source film/kodak_ektar_100.sh
  #source film/kodak_ektar_125.sh
  #source film/kodak_ektar_25.sh
+ #source kodak_vision2_50d.sh
+ source kodak_vision3_500t.sh
  #source film/agfa_agfacolor_100.sh
  #source film/fujicolor_c200.sh
  #source film/fujifilm_eterna_250d.sh
