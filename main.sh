@@ -2,7 +2,7 @@
  # imports
  #source camera/mamiya_zm.sh
  #sonas zm:
- #source camera/mamiya_zm_.sh
+ source camera/mamiya_zm_.sh
  #source camera/minolta_xg-m.sh
  #source camera/olympus_xa2.sh
  #source camera/porst.sh
@@ -13,14 +13,15 @@
  #source camera/mamiya_ze-2.sh
  #source camera/nikon_l35_ad.sh
  #source camera/nikon_n2000.sh
- source camera/nikon_n2000_.sh
+ #source camera/nikon_n2000_.sh
  #source camera/mamiya_rb67.sh
  #source camera/polaroid_sx-70.sh
  #source lens/AUTO_REVUENON_MCF_50mm_F1.4.sh
  #source lens/AUTO_REVUENON_MCE_28mm_f2.8.sh
  #source lens/mamiya-sekor_28mm_f3.5.sh
  #source lens/osawa_28mm_f2.8.sh
- source lens/osawa_28mm_f2.8_minolta.sh
+ source lens/mamiya-sekor_50mm_f1.7.sh
+ #source lens/osawa_28mm_f2.8_minolta.sh
  #source lens/osawa_for_nikon_28mm_f2.8.sh
  #source lens/osawa_for_nikon_28mm_f2.8_.sh
  #source lens/nikon_50mm_f1.8.sh
@@ -35,6 +36,7 @@
  #source lens/nikon_l35_ad.sh
  #film
  #source film/kodak_trix.sh
+ source film/kodak_px_125.sh
  #source film/kodak_5222.sh
  #source film/kodak_3200.sh
  #source film/kodak_portra_400.sh
@@ -43,7 +45,7 @@
  #source film/kodak_ektar_125.sh
  #source film/kodak_ektar_25.sh
  #source film/kodak_vision2_50d.sh
- source film/kodak_vision3_500t.sh
+ #source film/kodak_vision3_500t.sh
  #source film/agfa_agfacolor_100.sh
  #source film/fujicolor_c200.sh
  #source film/fujifilm_eterna_250d.sh
