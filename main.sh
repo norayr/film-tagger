@@ -7,6 +7,7 @@
  #source camera/olympus_xa2.sh
  #source camera/porst.sh
  #source camera/mamiya_1000dtl.sh
+ source camera/minolta_xg-m.sh
  #source camera/lomo_instant_magellan.sh
  #source camera/lomo_instant_orange_teal.sh
  #source camera/lomo_instant_wide.sh
@@ -14,12 +15,20 @@
  #source camera/nikon_l35_ad.sh
  #source camera/nikon_n2000.sh
  #source camera/nikon_n2000_.sh
+<<<<<<< HEAD
  source camera/mamiya_rb67.sh
+=======
+ #source camera/mamiya_rb67.sh
+>>>>>>> 90f7905eb74f9167fe341720b8b164b0f2e282ec
  #source camera/polaroid_sx-70.sh
  #source lens/AUTO_REVUENON_MCF_50mm_F1.4.sh
  #source lens/AUTO_REVUENON_MCE_28mm_f2.8.sh
  #source lens/mamiya-sekor_28mm_f3.5.sh
  #source lens/osawa_28mm_f2.8.sh
+<<<<<<< HEAD
+=======
+ #source lens/mamiya-sekor_50mm_f1.7.sh
+>>>>>>> 90f7905eb74f9167fe341720b8b164b0f2e282ec
  #source lens/osawa_28mm_f2.8_minolta.sh
  #source lens/osawa_for_nikon_28mm_f2.8.sh
  #source lens/osawa_for_nikon_28mm_f2.8_.sh
@@ -28,13 +37,16 @@
  #source lens/d.zuiko_35mm_f3.5.sh
  #source lens/fuji_EBC_fujinon_SW_28mm_f3.5.sh
  #source lens/Carl_Zeiss_Jena_Flektogon_20mm_f2.8.sh
+ #source lens/focal_135mm_f2.8.sh
+ source lens/minolta_md_rokkor-x_50mm_f1.4.sh
  #source lens/lomo_instant_magellan.sh
  #source lens/lomo_instant_wide.sh
  source lens/mamiya_rb67_50mm.sh
  #source lens/polaroid_sx-70.sh
  source lens/nikon_l35_ad.sh
  #film
- #source film/kodak_trix.sh
+ source film/kodak_trix.sh
+ #source film/kodak_px_125.sh
  #source film/kodak_5222.sh
  #source film/kodak_3200.sh
  #source film/kodak_portra_400.sh
