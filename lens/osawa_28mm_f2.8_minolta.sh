@@ -7,6 +7,6 @@
   lensSerial="NO. 2238007"
   #xmp
 
-  lens="MC EF 1:2.8 f=28mm"
+  lens="Osawa MC EF 1:2.8 f=28mm"
   lensManufacturer="Osawa"
 

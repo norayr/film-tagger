@@ -46,8 +46,9 @@
  #source film/kodak_vision3_500t.sh
  #source film/agfa_agfacolor_100.sh
  #source film/fujicolor_c200.sh
+ source film/fujicolor_reala_100.sh
  #source film/fujifilm_eterna_250d.sh
- source film/fujicolor_pro400h.sh
+ #source film/fujicolor_pro400h.sh
  #source film/fujicolor_super_g_400.sh
  #source film/fujicolor_super_hq_200.sh
  #source film/fujicolor_100industrial.sh
