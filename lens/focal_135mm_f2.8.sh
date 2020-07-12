@@ -7,6 +7,5 @@
   lensSerial="836203"
   #xmp
 
-  lens="EF 1:2.8 f=28mm"
   lensManufacturer="FOCAL"
 
