@@ -7,7 +7,7 @@
  #source camera/olympus_xa2.sh
  #source camera/porst.sh
  #source camera/mamiya_1000dtl.sh
- source camera/minolta_x-700.sh
+ #source camera/minolta_x-700.sh
  #source camera/lomo_instant_magellan.sh
  #source camera/lomo_instant_orange_teal.sh
  #source camera/lomo_instant_wide.sh
@@ -15,7 +15,7 @@
  #source camera/nikon_l35_ad.sh
  #source camera/nikon_n2000.sh
  #source camera/nikon_n2000_.sh
- #source camera/mamiya_rb67.sh
+ source camera/mamiya_rb67.sh
  #source camera/polaroid_sx-70.sh
  #source lens/AUTO_REVUENON_MCF_50mm_F1.4.sh
  #source lens/AUTO_REVUENON_MCE_28mm_f2.8.sh
@@ -32,14 +32,14 @@
  #source lens/Carl_Zeiss_Jena_Flektogon_20mm_f2.8.sh
  #source lens/focal_135mm_f2.8.sh
  #source lens/minolta_md_rokkor-x_50mm_f1.4.sh
- source lens/minolta_md_rokkor_20mm.sh
+ #source lens/minolta_md_rokkor_20mm.sh
  #source lens/lomo_instant_magellan.sh
  #source lens/lomo_instant_wide.sh
- #source lens/mamiya_rb67_50mm.sh
+ source lens/mamiya_rb67_50mm.sh
  #source lens/polaroid_sx-70.sh
  #source lens/nikon_l35_ad.sh
  #film
- source film/kodak_trix.sh
+ #source film/kodak_trix.sh
  #source film/kodak_px_125.sh
  #source film/kodak_5222.sh
  #source film/kodak_3200.sh
@@ -65,6 +65,7 @@
  #source film/FUJIFILM_FP100C.sh
  #source film/instax_mini.sh
  #source film/instax_wide.sh
+ source film/instax_square.sh
  #source film/fomapan_400.sh
  #source film/polaroid_originals.sh
  #source film/polaroid_originals_monochrome.sh
@@ -74,8 +75,8 @@
  #source film/adox_chm400.sh
  source flash/default.sh
  #source scanner/minolta_scan_dual_iv.sh
- #source scanner/canon_9000.sh
- source scanner/pie_xa.sh
+ source scanner/canon_9000.sh
+ #source scanner/pie_xa.sh
  source picture/default.sh
  #source location/default.sh
  #source location/frozen_sevan_velvia.sh
