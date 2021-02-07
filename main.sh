@@ -35,7 +35,8 @@
  #source lens/minolta_md_rokkor_20mm.sh
  #source lens/lomo_instant_magellan.sh
  #source lens/lomo_instant_wide.sh
- source lens/mamiya_rb67_50mm.sh
+ #source lens/mamiya_rb67_50mm.sh
+ source lens/mamiya_rb67_120mm.sh
  #source lens/polaroid_sx-70.sh
  #source lens/nikon_l35_ad.sh
  #film
