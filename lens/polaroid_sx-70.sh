@@ -1,7 +1,7 @@
 
   #exif
   maxApertureValue="8"
-  focalLengthIn28mmFormat="116mm f8"
+  focalLengthIn35mmFormat="45mm"
   lens="116mm f8"
   lensModel="${lens}"
   lensSerial=""
