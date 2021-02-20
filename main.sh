@@ -9,13 +9,13 @@
  #source camera/mamiya_1000dtl.sh
  #source camera/minolta_x-700.sh
  #source camera/lomo_instant_magellan.sh
- #source camera/lomo_instant_orange_teal.sh
+ source camera/lomo_instant_orange_teal.sh
  #source camera/lomo_instant_wide.sh
  #source camera/mamiya_ze-2.sh
  #source camera/nikon_l35_ad.sh
  #source camera/nikon_n2000.sh
  #source camera/nikon_n2000_.sh
- source camera/mamiya_rb67.sh
+ #source camera/mamiya_rb67.sh
  #source camera/polaroid_sx-70.sh
  #source lens/AUTO_REVUENON_MCF_50mm_F1.4.sh
  #source lens/AUTO_REVUENON_MCE_28mm_f2.8.sh
@@ -36,7 +36,7 @@
  #source lens/lomo_instant_magellan.sh
  #source lens/lomo_instant_wide.sh
  #source lens/mamiya_rb67_50mm.sh
- source lens/mamiya_rb67_120mm.sh
+ #source lens/mamiya_rb67_120mm.sh
  #source lens/polaroid_sx-70.sh
  #source lens/nikon_l35_ad.sh
  #film
@@ -64,9 +64,9 @@
  #source film/fujifilm_superia800.sh
  #source film/FUJICHROME_Velvia_50.sh
  #source film/FUJIFILM_FP100C.sh
- #source film/instax_mini.sh
+ source film/instax_mini.sh
  #source film/instax_wide.sh
- source film/instax_square.sh
+ #source film/instax_square.sh
  #source film/fomapan_400.sh
  #source film/polaroid_originals.sh
  #source film/polaroid_originals_monochrome.sh
