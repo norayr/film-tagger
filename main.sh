@@ -34,6 +34,7 @@
  #source lens/minolta_md_rokkor-x_50mm_f1.4.sh
  #source lens/minolta_md_rokkor_20mm.sh
  #source lens/lomo_instant_magellan.sh
+ source lens/lomo_instant.sh
  #source lens/lomo_instant_wide.sh
  #source lens/mamiya_rb67_50mm.sh
  #source lens/mamiya_rb67_120mm.sh
