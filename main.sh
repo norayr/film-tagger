@@ -3,6 +3,7 @@
  #source camera/mamiya_zm.sh
  #sonas zm:
  #source camera/mamiya_zm_.sh
+ #source camera/mamiya_ze-2.sh
  #source camera/minolta_xg-m.sh
  source camera/olympus_xa2.sh
  #source camera/porst.sh
@@ -11,7 +12,6 @@
  #source camera/lomo_instant_magellan.sh
  #source camera/lomo_instant_orange_teal.sh
  #source camera/lomo_instant_wide.sh
- #source camera/mamiya_ze-2.sh
  #source camera/nikon_l35_ad.sh
  #source camera/nikon_n2000.sh
  #source camera/nikon_n2000_.sh
@@ -41,7 +41,7 @@
  #source lens/polaroid_sx-70.sh
  #source lens/nikon_l35_ad.sh
  #film
- #source film/kodak_trix.sh
+ source film/kodak_trix.sh
  #source film/kodak_px_125.sh
  #source film/kodak_5222.sh
  #source film/kodak_3200.sh
@@ -64,6 +64,7 @@
  #source film/fujichrome_400.sh
  #source film/fujifilm_superia800.sh
  #source film/FUJICHROME_Velvia_50.sh
+ #source film/FUJICHROME_50.sh
  #source film/FUJIFILM_FP100C.sh
  #source film/instax_mini.sh
  #source film/instax_wide.sh
@@ -75,7 +76,7 @@
  #source film/ilford_hp5.sh
  #source film/ilford_delta_400.sh
  #source film/adox_chm400.sh
- source film/adox_silvermax.sh
+ #source film/adox_silvermax.sh
  source flash/default.sh
  #source scanner/minolta_scan_dual_iv.sh
  #source scanner/canon_9000.sh
