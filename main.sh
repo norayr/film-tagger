@@ -13,8 +13,9 @@
  #source camera/lomo_instant_orange_teal.sh
  #source camera/lomo_instant_wide.sh
  #source camera/nikon_l35_ad.sh
- source camera/nikon_n2000.sh
+ #source camera/nikon_n2000.sh
  #source camera/nikon_n2000_.sh
+ #source camera/nikon_f3.sh
  #source camera/mamiya_rb67.sh
  #source camera/polaroid_sx-70.sh
  #source lens/AUTO_REVUENON_MCF_50mm_F1.4.sh
