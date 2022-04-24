@@ -2,7 +2,7 @@
  # imports
  #source camera/mamiya_zm.sh
  #sonas zm:
- #source camera/mamiya_zm_.sh
+ source camera/mamiya_zm_.sh
  #source camera/mamiya_ze-2.sh
  #source camera/minolta_xg-m.sh
  #source camera/olympus_xa2.sh
@@ -22,9 +22,9 @@
  #source lens/AUTO_REVUENON_MCE_28mm_f2.8.sh
  #source lens/mamiya-sekor_28mm_f3.5.sh
  #source lens/osawa_28mm_f2.8.sh
- #source lens/mamiya-sekor_50mm_f1.7.sh
+ source lens/mamiya-sekor_50mm_f1.7.sh
  #source lens/osawa_28mm_f2.8_minolta.sh
- source lens/osawa_for_nikon_28mm_f2.8.sh
+ #source lens/osawa_for_nikon_28mm_f2.8.sh
  #source lens/osawa_for_nikon_28mm_f2.8_.sh
  #source lens/nikon_50mm_f1.8.sh
  #source lens/spiratone_20mm_f2.8.sh
@@ -55,7 +55,7 @@
  #source film/kodak_vision2_50d.sh
  #source film/kodak_vision3_500t.sh
  #source film/agfa_agfacolor_100.sh
- #source film/fujicolor_c200.sh
+ source film/fujicolor_c200.sh
  #source film/fujicolor_reala_100.sh
  #source film/fujifilm_eterna_250d.sh
  #source film/fujicolor_pro400h.sh
